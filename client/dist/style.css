@@ -1,0 +1,28 @@
+.entireApp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+#navBar {
+  z-index:1;
+}
+
+#current {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+}
+
+#Highlights{
+  width: 500px;
+  margin-left: 1120px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+#productDescription {
+  margin-top: 250px;
+}
+
