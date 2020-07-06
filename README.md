@@ -1,39 +1,15 @@
 # nav-bar-proxy
 
-> Project description
+> This repo will serve as a proxy for all individual modules, bringing together all projects to create a webpage.
 
-## Related Projects
-
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
-
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
+### Installing Dependencies and Starting the Server
 
 From within the root directory:
 
 ```sh
 npm install -g webpack
 npm install
+(npm start all individula modules)
+npm start
 ```
 
